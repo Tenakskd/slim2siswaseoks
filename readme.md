@@ -28,7 +28,7 @@ cookieにyuki=Trueを設定すると認証されます。
 <a href="https://render.com/deploy?repo=https://github.com/siawaseok3/slim-2-by-siawaseok.git">
  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render"><br>
 </a>
-<a href="https://vercel.com/new/clone?repository-url=https://github.com/siawaseok3/slim-2-by-siawaseok.git">
+<a href="https://vercel.com/new/clone?repository-url=https://github.com/tenakskd/slim2siswaseoks.git">
   <img src="https://vercel.com/button" alt="Deployto Vercel">
 </a>
 
